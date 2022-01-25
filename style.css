@@ -1,0 +1,35 @@
+body {
+    background-color: #c0c5ce;
+}
+h1 {
+    color: white;
+}
+p {
+    color: wheat;
+}
+.yellow {
+    color: yellow;
+}
+.navy {
+    color: #01017a;
+}
+.gray {
+    color: gray;
+}
+.pink {
+    color: pink;
+}
+#yellow {
+    background-color: yellow;
+}
+#navy {
+    color: white;
+    background-color: #01017a;
+}
+#gray {
+    color: white;
+    background-color: gray;
+}
+#pink {
+    background-color: pink;
+}
