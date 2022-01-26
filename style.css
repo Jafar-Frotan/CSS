@@ -1,0 +1,18 @@
+.start {
+    background: yellow;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+#second {
+    background: red;
+    color: white;
+    font-size: 25px;
+    font-family: lato;
+    font-weight: 900;
+}
+.header3 {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
