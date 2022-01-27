@@ -1,0 +1,40 @@
+a:link {
+    color:#1abc9c;
+}
+a:hover {
+    color:#e67e22;
+}
+a:visited {
+    color: #f1c40f;
+}
+.ws:link {
+    color: coral;
+}
+.ws:visited {
+    color: blue
+}
+.ws:hover {
+    color: darkgreen
+}
+.table {
+    background: #e74c3c;
+}
+.table:hover {
+    background: #27ae60;
+}
+li {
+    font-family: lato;
+    font-size: 18px;
+    font-weight: 800;
+    color: #ff0000;
+    list-style-type: none;
+    list-style-image: url(../image/1.png)
+}
+li:hover {
+    font-family: lato;
+    font-size: 18px;
+    font-weight: 800;
+    color: #53dc00;
+    list-style-type: none;
+    list-style-image: url(../image/2.png)
+}
