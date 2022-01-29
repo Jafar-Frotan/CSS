@@ -1,0 +1,43 @@
+p {
+    font-family: lato;
+    font-size: 17px;
+}
+.margin {
+    text-align: justify;
+    width: 500px;
+    height: 200px;
+    border: solid 1px #34495e;
+    /*margin: 50px;
+    margin: 25px 50px;
+    margin: 25px 40px 60px 80px;*/
+    margin: auto;
+}
+.padding {
+    text-align: justify;
+    width: 500px;
+    height: 200px;
+    border: solid 1px #34495e;
+    margin: auto;
+    /*padding: 10px;*/
+    padding-right: 25px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+a:link, a:visited, a:active {
+color: #e74c3c;
+background-color: #ecf0f1;
+    text-decoration: none;
+    border: solid 1px;
+    padding: 15px;
+}
+a:hover {
+color: #2ecc71;
+background-color: #f1c40f;
+    text-decoration: none;
+    border: solid 1px;
+    padding: 15px;
+}
+.links {
+        margin-top: 40px;
+}
