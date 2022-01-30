@@ -1,0 +1,48 @@
+.box1 {
+    width: 250px;
+    height: 150px;
+    background-color: #2ecc71;
+    font-size: 40px;
+    text-align: center;
+    line-height: 150px;
+    float: left;
+}
+.box2 {
+    width: 250px;
+    height: 150px;
+    background-color: #8e44ad;
+    font-size: 40px;
+    text-align: center;
+    line-height: 150px;
+    float: left;
+}
+.box3 {
+    width: 250px;
+    height: 150px;
+    background-color: #e67e22;
+    font-size: 40px;
+    text-align: center;
+    line-height: 150px;
+    float: left;
+}
+.box4 {
+    width: 250px;
+    height: 150px;
+    background-color: #e74c3c;
+    font-size: 40px;
+    text-align: center;
+    line-height: 150px;
+    clear: left;
+}
+li {
+    list-style-type: none;
+    background-color: #1abc9c;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    float: left;
+}
+li:hover {
+    background-color: #9b59b6;
+}
