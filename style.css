@@ -1,0 +1,36 @@
+.div1 {
+    width: 100px;
+    height: 250px;
+    background: olive;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+.box1 {
+    width: 150px;
+    height: 250px;
+    background: olive;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1;
+}
+.box2 {
+    width: 150px;
+    height: 250px;
+    background: red;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    z-index: 2;
+}
+.sticky1 {
+    width: 100%;
+    height: 50px;
+    background: olive;
+    position: sticky;
+    top: 0px;
+}
+.text {
+    text-align: justify;
+}
