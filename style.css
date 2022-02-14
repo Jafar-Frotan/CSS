@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: lato;
+    font-weight: 900;
+    text-shadow: 5px 5px 5px #e74c3c;
+}
+.shadow1 {
+    height: 150px;
+    width: 150px;
+    background-color: #2ecc71;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 20px 20px 10px #e74c3c;
+}
+.shadow1:hover {
+    height: 150px;
+    width: 150px;
+    background-color: #2ecc71;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: -20px -20px 10px #e67e22;
+}
+.shadow2 {
+    height: 150px;
+    width: 150px;
+    background-color: #2ecc71;
+    padding: 50px;
+    margin: 50px;
+    box-shadow:inset 20px 20px 10px #e74c3c, inset -20px -20px 10px #e74c3c;
+}
+.shadow3 {
+    height: 150px;
+    width: 150px;
+    background-color: #2ecc71;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 0px 0px 50px #000;
+}
+.shadow3:hover {
+    height: 150px;
+    width: 150px;
+    background-color: #2ecc71;
+    padding: 50px;
+    margin: 50px;
+    box-shadow:inset 0px 0px 50px #000;
+}
+.shadow4 {
+    height: 150px;
+    width: 150px;
+    background-color: #2ecc71;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 40px 40px 10px 50px #000;
+}
