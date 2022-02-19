@@ -1,0 +1,22 @@
+.grad1 {
+    height: 150px;
+    width: 150px;
+    background-image: linear-gradient(to left, #3498db,#e74c3c);
+}
+.grad2 {
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+    background-image: radial-gradient( #1abc9c,#f1c40f,#9b59b6);
+}
+.grad3 {
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+    background-image: linear-gradient(90deg, #1abc9c 20%,#f1c40f 10% ,#9b59b6 70%);
+}
+.grad4 {
+    height: 150px;
+    width: 150px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
